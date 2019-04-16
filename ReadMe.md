@@ -1,7 +1,7 @@
 
 --> GSP Algorithm <-- 
 
-The Program runs in Python 3.6 and above
+The Program runs in Python 3.7.0 and above
 
 Needs two input file, Data file and a parameter file
 
