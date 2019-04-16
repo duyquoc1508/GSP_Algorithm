@@ -1,7 +1,5 @@
 
---> MS-GSP Algorithm <--
-
-The algorithm is a extension of GSP algorithm (https://en.wikipedia.org/wiki/GSP_algorithm) which considers Minimum Item Support (MIS) value. 
+--> GSP Algorithm <-- 
 
 The Program runs in Python 3.6 and above
 

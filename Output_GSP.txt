@@ -1,0 +1,58 @@
+The number of length 1 sequential pattern is 6
+Pattern : <{10}>: Count = 3
+Pattern : <{20}>: Count = 5
+Pattern : <{30}>: Count = 4
+Pattern : <{40}>: Count = 3
+Pattern : <{50}>: Count = 3
+Pattern : <{60}>: Count = 2
+The number of length: 2 sequential pattern is 19
+Pattern : <{10}{10}>:Count = 2
+Pattern : <{10}{20}>:Count = 2
+Pattern : <{20}{10}>:Count = 3
+Pattern : <{30}{10}>:Count = 2
+Pattern : <{40}{10}>:Count = 2
+Pattern : <{20}{20}>:Count = 4
+Pattern : <{20}{30}>:Count = 4
+Pattern : <{30}{20}>:Count = 3
+Pattern : <{20,40}>:Count = 2
+Pattern : <{20}{40}>:Count = 2
+Pattern : <{40}{20}>:Count = 2
+Pattern : <{20}{50}>:Count = 3
+Pattern : <{20,60}>:Count = 2
+Pattern : <{20}{60}>:Count = 2
+Pattern : <{60}{20}>:Count = 2
+Pattern : <{30}{40}>:Count = 2
+Pattern : <{40}{30}>:Count = 2
+Pattern : <{30,50}>:Count = 2
+Pattern : <{60}{60}>:Count = 2
+The number of length: 3 sequential pattern is 20
+Pattern : <{10}{20}{10}>:Count = 2
+Pattern : <{10}{20}{20}>:Count = 2
+Pattern : <{20}{20}{10}>:Count = 2
+Pattern : <{20}{20}{30}>:Count = 2
+Pattern : <{20}{20}{60}>:Count = 2
+Pattern : <{20}{30}{10}>:Count = 2
+Pattern : <{20}{30}{20}>:Count = 3
+Pattern : <{20}{30}{40}>:Count = 2
+Pattern : <{20}{30,50}>:Count = 2
+Pattern : <{30}{20}{10}>:Count = 2
+Pattern : <{20,40}{10}>:Count = 2
+Pattern : <{20,40}{20}>:Count = 2
+Pattern : <{20,40}{30}>:Count = 2
+Pattern : <{40}{20}{10}>:Count = 2
+Pattern : <{40}{20}{30}>:Count = 2
+Pattern : <{20,60}{20}>:Count = 2
+Pattern : <{20,60}{60}>:Count = 2
+Pattern : <{60}{20}{60}>:Count = 2
+Pattern : <{40}{30}{10}>:Count = 2
+Pattern : <{40}{30}{20}>:Count = 2
+The number of length: 4 sequential pattern is 7
+Pattern : <{20}{30}{20}{10}>:Count = 2
+Pattern : <{20,40}{20}{10}>:Count = 2
+Pattern : <{20,40}{20}{30}>:Count = 2
+Pattern : <{20,40}{30}{10}>:Count = 2
+Pattern : <{20,40}{30}{20}>:Count = 2
+Pattern : <{20,60}{20}{60}>:Count = 2
+Pattern : <{40}{30}{20}{10}>:Count = 2
+The number of length: 5 sequential pattern is 1
+Pattern : <{20,40}{30}{20}{10}>:Count = 2
